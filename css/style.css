@@ -19,3 +19,8 @@ nav ul li a:hover {
   background-color: grey;
   color: white;
 }
+
+p{
+	color: grey;
+	font-family: Courier; 
+}
