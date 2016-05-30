@@ -21,10 +21,14 @@ nav ul li a:hover {
 }
 
 p{
-	color: grey;
+	color: steelblue;
 	font-family: calibri;
-	margin-top: 100px;
-	margin-bottom: 100px;
-	margin-right: 150px;
-	margin-left: 80px;
+}
+
+p.ex {
+    border:1px solid red;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
 }
