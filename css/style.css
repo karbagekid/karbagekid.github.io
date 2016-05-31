@@ -44,3 +44,9 @@ h2 {
 	font-family: 'Oswald', sans-serif;
 	color: #E9967A;
 }
+
+ul {
+	text-decoration: underline;
+	font-family: calibri;
+	color: #CD5C5C;
+}
