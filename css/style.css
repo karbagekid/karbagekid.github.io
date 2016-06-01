@@ -20,11 +20,6 @@ nav ul li a:hover {
   color: white;
 }
 
-p {
-	color: #708090;
-	font-family: calibri;
-}
-
 #mainContent {
   clear: left;
   padding-top: 2em;
@@ -51,9 +46,11 @@ ul {
 	color: #CD5C5C;
 }
 
-p.one {
+p {
     border-style: hidden;
     width: 500px;
     height: 500px;
     text-align: justify;
+    color: #708090;
+  	font-family: calibri;
 }
