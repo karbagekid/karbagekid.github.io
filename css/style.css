@@ -50,3 +50,10 @@ ul {
 	font-family: calibri;
 	color: #CD5C5C;
 }
+
+p.mainContent {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
