@@ -52,5 +52,8 @@ ul {
 }
 
 p.one {
+    border-style: hidden;
+    width: 200px;
+    height: 200px;
     text-align: justify;
 }
