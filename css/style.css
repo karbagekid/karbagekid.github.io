@@ -52,6 +52,6 @@ ul {
 }
 
 p.one {
-    border-style: hidden;
+    border-style: solid;
     border-width: 2px;
 }
