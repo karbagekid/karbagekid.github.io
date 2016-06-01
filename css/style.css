@@ -54,12 +54,3 @@ p {
   color: #708090;
   font-family: calibri;
 }
-
-p.2 {
-  border-style: hidden;
-  width: 500px;
-  height: 70px;
-  text-align: justify;
-  color: #F51E58;
-  font-family: calibri;
-}
