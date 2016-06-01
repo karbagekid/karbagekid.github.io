@@ -47,6 +47,8 @@ ul {
 }
 
 p {
+  border-style: double;
+  border-radius: 500px;
   text-align: justify;
   color: #708090;
   font-family: calibri;
