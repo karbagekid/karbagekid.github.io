@@ -51,9 +51,7 @@ ul {
 	color: #CD5C5C;
 }
 
-p.main {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+p.one {
+    border-style: hidden;
+    border-width: 2px;
 }
