@@ -51,7 +51,7 @@ ul {
 	color: #CD5C5C;
 }
 
-p {
+p.one {
     border-style: hidden;
     width: 500px;
     height: 500px;
